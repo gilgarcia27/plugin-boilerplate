@@ -1,4 +1,17 @@
 {
     "name": "gilgarcia27/plugin-boilerplate",
-    "type": "wordpress-plugin"
+    description: "",
+    "keywords": [
+        "wordpress",
+        "plugin",
+        "template"
+    ],
+    "homepage": "https://github.com/gilgarcia27/plugin-boilerplate",
+    "authors": [
+        {
+            "name": "Gilberto Garcia",
+            "homepage": "https://github.com/gilgarcia27"
+        }
+    ],
+    "type": "wordpress-plugin",
 }
