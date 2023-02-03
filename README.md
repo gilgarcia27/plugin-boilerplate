@@ -12,7 +12,7 @@ Template of a structure base of a wordpress plugin.
 composer require gilgarcia27/plugin-boilerplate:dev-main
 ```
 
-#### Adding it to composer.json file:
+#### Add to composer.json file:
 
 ```
 {
