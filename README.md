@@ -1,5 +1,5 @@
-# plugin-boilerplate
-Template of a structure base of a wordpress plugin.
+# wp-plugin-name
+Template of a wordpress plugin boilerplate.
 
 
 ## Installation
