@@ -1,5 +1,5 @@
 # plugin-boilerplate
-This is a test
+Template of a structure base of a wordpress plugin.
 
 
 ## Installation
