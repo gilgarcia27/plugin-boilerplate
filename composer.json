@@ -16,6 +16,6 @@
     "type": "wordpress-plugin",
     "require": {
         "composer/installers": "~1.0",
-        "nesbot/carbon": "˜1.0"
+        "nesbot/carbon": "ˆ2.6"
     }
 }
