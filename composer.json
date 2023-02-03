@@ -13,5 +13,8 @@
             "homepage": "https://github.com/gilgarcia27"
         }
     ],
-    "type": "wordpress-plugin"
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
